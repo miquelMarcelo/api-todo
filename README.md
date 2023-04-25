@@ -4,4 +4,4 @@
  
  API que genera notas a realizar por cada usuario logueado.
  
- Hecha con [Node.js] (https://nodejs.org/en)
+ Desarrollada con [Node.js](https://nodejs.org/en) y usando [express.js](https://expressjs.com/)
